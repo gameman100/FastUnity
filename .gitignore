@@ -8,3 +8,17 @@ UnityVS.FastUnity.v12.suo
 UnityVS.FastUnity.CSharp.csproj
 *.csproj
 *.bakert
+Library/LibraryFormatVersion.txt
+Library/AssetImportState
+Library/AssetServerCacheV3
+Library/BuildPlayer.prefs
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/build.force
+Library/UnityAssemblies/version.txt
+Library/UnityAssemblies/UnityEditor.WindowsStandalone.Extensions.dll
+Library/InspectorExpandedItems.asset
+Library/guidmapper
+Library/expandedItems
+Library/BuildSettings.asset
+Library/EditorUserBuildSettings.asset
+Library/EditorUserSettings.asset

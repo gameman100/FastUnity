@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/// <summary>
+/// 系统设置
+/// </summary>
 public static class SystemSettings {
 
     /// <summary>
@@ -10,7 +13,6 @@ public static class SystemSettings {
     {
         get
         {
-
             int ret = PlayerPrefs.GetInt("Music_Volume", 1);
             return ret;
         }

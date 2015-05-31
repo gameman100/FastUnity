@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-[AddComponentMenu("Game/Common/LookAtCamera")]
+[AddComponentMenu("Game/Misc/LookAtCamera")]
 public class LookAtCamera : MonoBehaviour
 {
 

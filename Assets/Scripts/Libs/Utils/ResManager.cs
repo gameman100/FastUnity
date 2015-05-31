@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
+[AddComponentMenu("Game/Misc/ResManager")]
 public class ResManager : MonoBehaviour{
 	/// <summary>
 	/// GameObject prefab list

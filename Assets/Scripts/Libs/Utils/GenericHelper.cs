@@ -4,6 +4,7 @@ using System.Collections;
 /// <summary>
 /// 实用功能
 /// </summary>
+[AddComponentMenu("Game/Misc/GenericHelper")]
 public class GenericHelper : MonoBehaviour {
 
     /// <summary>
