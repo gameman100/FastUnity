@@ -1,0 +1,10 @@
+Library/AnnotationManager
+Library/assetDatabase3
+*.db
+*.dwlt
+*.info
+UnityVS.FastUnity.v12.suo
+*.sln
+UnityVS.FastUnity.CSharp.csproj
+*.csproj
+*.bakert
